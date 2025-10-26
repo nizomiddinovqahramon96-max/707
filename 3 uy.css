@@ -1,0 +1,39 @@
+* {margin: 0px;
+padding: 0px;}
+
+.gap {text-align: center;}
+b {color: blue;}
+
+.filial { padding: 10px 290px;
+    display: flex;
+    justify-content: space-around;
+    gap: 25px;
+    flex-wrap: wrap;}
+
+    .manzil { box-shadow: 5px 5px 5px rgb(231, 216, 216);
+    border-radius: 20px;
+    overflow: hidden;
+    text-align: center;
+    margin: 3px;
+}
+
+.manzil img { width: 250px;}
+.logo img { width: 36px;}
+
+.son button {background-color: blue;
+padding: 10px 5px;
+margin: 0px;
+color: white;
+border-radius: 20px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+button {
+    background-color: rgb(250, 118, 70);
+    border-radius: 25px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px 40px;
+    color: white;
+}
+
+
